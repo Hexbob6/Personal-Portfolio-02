@@ -1,0 +1,50 @@
+{
+    "content" : [
+        
+        {
+        
+        "id"               :   1,
+        "name"             :   "Meeting the Beast",
+        "thumbImg"         :   "img/Trico-Thumb.jpg",
+        "largeImg"         :   "img/Trico-Large.jpg",
+        "thumbDescription" :   "Created as an entry into the Blender Guru Fantasy     Competition. Inspired by The Last Guardian.",
+        "mainDescription"  :   "N/A"
+        
+        },
+        
+        {
+
+        "id"               :   2,
+        "name"             :   "Expressive Typography",
+        "thumbImg"         :   "img/Frozen-Thumb.jpg",
+        "largeImg"         :   "img/Frozen-Large.jpg",
+        "thumbDescription" :   "3D Expressive Typography Design, aimed at improving my stylised photorealism skills.",
+        "mainDescription"  :   "N/A"
+
+        },
+        
+        {
+
+        "id"               :   3,
+        "name"             :   "Light Painting Cinematic Titles",
+        "thumbImg"         :   "img/LightPainting-Thumb.jpg",
+        "largeImg"         :   "img/LightPainting-Thumb.jpg",
+        "thumbDescription" :   "A short, 3D rendered, cinematic logo reveal, experimenting with camera and compositing effects.",
+        "mainDescription"  :   "N/A"
+
+        },
+        
+        {
+
+        "id"               :   4,
+        "name"             :   "Sci-Fi Hardsurface Grenade",
+        "thumbImg"         :   "img/Grenade-Thumb.jpg",
+        "largeImg"         :   "img/Grenade-Large.jpg",
+        "thumbDescription" :   "Hardsurface 3D personal project to refine my modelling and procedural texturing skills.",
+        "mainDescription"  :   "N/A"
+
+        }
+        
+    ]
+    
+}
