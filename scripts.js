@@ -33,7 +33,7 @@ $.getJSON('content.json', function (data) {
     
     
     
-    $('.small-box').click(function () {
+    /*$('.small-box').click(function () {
         
         //Within 'content' find the objects. From all of the found objects, output the one where the object id is the same as the <div> id. Make this singular object referenced as 'c'.
         var c = content.find(obj => obj.id == this.id);
@@ -48,7 +48,7 @@ $.getJSON('content.json', function (data) {
 //            console.log(c.largeImg, boxId)    
         }
         
-    });
+    }); */
     
     
 //    console.log(content[0].thumbImg);
@@ -98,3 +98,22 @@ $('.small-box').hover(
         
     }
 );
+
+
+$('.overlay-darken').on("click", function () {
+    
+    $(this).fadeOut(200);
+    $('.popup-overlay').fadeOut(200);
+    
+});
+
+$(document).on('load', 'resize', function (){
+    
+    "use strict";
+    
+    var screenWidth = $(this).width(),
+        screenHeight = $(this).height();
+    
+    console.log(screenWidth + " * " + screenHeight + "px");
+    
+});
